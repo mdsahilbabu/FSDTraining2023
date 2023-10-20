@@ -1,0 +1,14 @@
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.exe
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.deps.json
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.runtimeconfig.json
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\bin\Debug\net6.0\ShoppingApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfoInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.AssemblyInfo.cs
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.csproj.CoreCompileInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\refint\ShoppingApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ShoppingApp.genruntimeconfig.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ShoppingSolution\ShoppingApp\obj\Debug\net6.0\ref\ShoppingApp.dll

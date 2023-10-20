@@ -1,0 +1,14 @@
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\bin\Debug\net6.0\FirstApp.exe
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\bin\Debug\net6.0\FirstApp.dll
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.dll
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+E:\GIT and GITHUB\Hexaware Training git\day-1\FirstSolutiongit add -A\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
