@@ -1,0 +1,14 @@
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\bin\Debug\net6.0\ClinicApp.exe
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\bin\Debug\net6.0\ClinicApp.deps.json
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\bin\Debug\net6.0\ClinicApp.runtimeconfig.json
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\bin\Debug\net6.0\ClinicApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\bin\Debug\net6.0\ClinicApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.AssemblyInfoInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.AssemblyInfo.cs
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.csproj.CoreCompileInputs.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\refint\ClinicApp.dll
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.pdb
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ClinicApp.genruntimeconfig.cache
+E:\GIT and GITHUB\Hexaware Training git\Day-2\ClinicSolution\ClinicApp\obj\Debug\net6.0\ref\ClinicApp.dll
